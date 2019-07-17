@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_toplama"
+        android:checkable="false"
+        android:icon="@mipmap/arti"
+        android:title="@string/toplama" />
+    <item
+        android:id="@+id/action_cikarma"
+        android:icon="@mipmap/eksi"
+        android:title="@string/cikarma"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_carpma"
+        android:icon="@mipmap/carpi"
+        android:title="@string/carpma"
+        app:showAsAction="never" />
+</menu>

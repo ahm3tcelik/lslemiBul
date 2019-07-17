@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">İşlemi Bul</string>
+    <string name="oyunaBasla">Oyuna Başla</string>
+    <string name="nasilOynanir">Nasıl Oynanır?</string>
+    <string name="ayarlar">AYARLAR</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="settings_music">Oyun içi müzik sesi</string>
+    <string name="settings_sound">Oyun içi ses efektleri</string>
+    <string name="ipucu">İpucu</string>
+    <string name="pas">Pas</string>
+    <string name="atlamaHakki">Atlama Hakkı</string>
+    <string name="ipucuHakki">İpucu Hakkı</string>
+    <string name="yetersizIpucu">İpucu hakkınız kalmadı</string>
+    <string name="yetersizPas">Pas hakkınız kalmadı</string>
+    <string name="number">99</string>
+    <string name="seviye">Seviye</string>
+    <string name="skor">Skor</string>
+    <string name="islemSec">İşlemleri eksiksiz giriniz</string>
+    <string name="ipucuOnay">İpucu almayı onaylıyor musunuz ?</string>
+    <string name="pasOnay">Soruyu atlamayı onaylıyor musunuz ?</string>
+    <string name="pesOnay">Pes mi ediyorsunuz ?</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayir</string>
+    <string name="time">00</string>
+    <string name="ipucuOK">Cevaba işlendi</string>
+    <string name="alreadyIpucuOK">İpucunu zaten bu soruda kullandınız</string>
+    <string name="pasOK">Önceki soru atlandı</string>
+    <string name="awards3tebir">3 soruyu doğru bildiğiniz için ödül : </string>
+    <string name="award">Üst seviyeye geçtiğiniz için ödül : </string>
+    <string name="levelUp">Tebrikler! Bir üst seviyeye ulaştınız.</string>
+    <string name="levelupOK">Oyuna don</string>
+    <string name="textLose">Bu Sefer Olmadı</string>
+    <string name="eskirekor">Eski Rekor</string>
+    <string name="yeniRekor">Yeni Rekor</string>
+    <string name="sureBitti">Maalesef süre doldu!</string>
+    <string name="reklamSor">Reklam izle ve kaldığın yerden başla</string>
+    <string name="reklamIzle">Reklam Izle</string>
+    <string name="vazgec">Vazgec</string>
+    <string name="sure">Sure</string>
+    <string name="ok">Tamam</string>
+    <string name="settings_zorluk">Oyun içi zorluk derecesi</string>
+    <string name="kolay">Kolay</string>
+    <string name="zor">Zor</string>
+    <string name="orta">Orta</string>
+    <string name="cikarma">Çıkarma</string>
+    <string name="carpma">Çarpma</string>
+    <string name="toplama">Toplama</string>
+
+    <string-array name="Basliklar">
+        <item>DOĞRU CEVAP</item>
+        <item>İPUCU</item>
+        <item>SORUYU ATLA</item>
+        <item>PES ET</item>
+        <item>HIZLI OL</item>
+        <item>ZORLUK DERECESI</item>
+    </string-array>
+
+    <string-array name="Aciklamalar">
+        <item>Oyunun amacı, sayılar arasındaki işlemleri matematiksel kurallara bağlı kalarak bulmaktır. Doğru işlemi bulduğunu düşünüyorsan soru işaretine tıklayıp seçimini yap ve Yeşil renkli butona bas.</item>
+        <item>Sorular kolaydan zora doğru gitmektedir. Seviye atlandıkça sayılar ve işlemler artmaktadır. Zorlandığın bir soruda İpucu alabilirsin. Alınan ipuçları rasgele bir işlemi çözmektedir.</item>
+        <item>Zor bir soruda zaman kaybetmemek için iyi bir alternatif. Unutma, İpucu ve Atla hakkın sınırlı!</item>
+        <item>Çok zorlandığın veya sıkıldığın bir durumda zamanın dolmasını beklemek yerine Pes ederek oyunu kendin de sonlandırabilirsin.</item>
+        <item>Oyunda bilgiyle beraber hız da çok önemlidir. Soruların zorluk seviyesine göre belirli süreleri vardır. Acele et!</item>
+        <item>Ayarlar Menüsünde oyun içi zorluk seviyesi bulunmaktadır. Zorluk seviyesi arttıkça soru başına düşen süre azalır. Buna karşılık sorunun doğru puan getirisi daha fazladır. Kendi seviyeni belirle ve hemen oyuna başla!</item>
+    </string-array>
+
+</resources>
