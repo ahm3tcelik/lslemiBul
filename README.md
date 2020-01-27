@@ -1,7 +1,7 @@
 # lslemiBul
 İşlemi Bul Android Native Application
 
-![](https://github.com/amdhst/lslemiBul/blob/master/app/src/main/res/mipmap-xxxhdpi/icon.png)
+![](https://github.com/ahm3tcelik/lslemiBul/blob/master/app/src/main/res/mipmap-xxxhdpi/icon.png)
 
 İşlemi Bul, bir problemi veya konuyu tümden gelim yöntemiyle alt konulara ayırıp her bilgiyi ayrıca değerlendirebilmeyi yani analitik düşünme becerisini geliştirmektedir.
 Bugün çocukların derslerdeki başarısını etkileyen, yetişkinlerin iş ilanlarında sürekli karşılaştığı, büyük küçük herkes için oldukça önemli olan analitik düşünme ve aritmetik işlem becerinizi "İşlemi Bul" ile geliştirebilirsiniz.
